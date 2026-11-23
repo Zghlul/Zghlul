@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Farel Zaghlul — Full-Stack Web Developer" width="100%">
+</p>
+
 # Farel Zaghlul
 
 **Full-stack web developer.** I take web applications from database schema to the last loading state: Laravel on the server, React on the client. Validation explains itself, error states are useful, pages hold up on a phone, and I stay involved after the first deploy.
